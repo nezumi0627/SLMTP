@@ -15,8 +15,5 @@ __pycache__/
 .vscode/
 .idea/
 
-# Test files
-CHRLINE-Patch/
-
 # Environment variables
 .env
