@@ -1,0 +1,3 @@
+[submodule "CHRLINE-Patch"]
+	path = CHRLINE-Patch
+	url = https://github.com/WEDeach/CHRLINE-Patch.git

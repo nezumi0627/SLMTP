@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# IDE files
+.vscode/
+
+# Test files
+*CHRLINE-Patch/
+
+# Environment variables
+.env

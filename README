@@ -1,0 +1,15 @@
+# SLMT (Send-LIFF-Message-Template-Python)
+
+## Overview
+SLMT (Send-LIFF-Message-Template) is a Python utility that allows you to send Flex messages via the LINE Liff platform. This utility simplifies the process of creating and sending Flex messages to specified recipients.
+
+## Features
+- **Easy Integration**: Quickly integrate with the CHRLINE library to send messages.
+- **Flexible Messaging**: Customize your Flex messages easily with the TemplateFlex class.
+- **Efficient Handling**: Built to handle the sending of multiple Flex messages with minimal effort.
+
+## Installation
+To use this utility, ensure you have the required dependencies installed:
+
+```bash
+git clone https://github.com/WEDeach/CHRLINE-Patch.git
