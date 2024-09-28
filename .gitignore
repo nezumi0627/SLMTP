@@ -1,17 +1,22 @@
-# Python
+# Python cache files
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+
+# Python egg files
 *.egg-info/
 *.egg
+
+# Log files
 *.log
 
 # IDE files
 .vscode/
+.idea/
 
 # Test files
-*CHRLINE-Patch/
+CHRLINE-Patch/
 
 # Environment variables
 .env
