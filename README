@@ -11,6 +11,4 @@ SLMT (Send LIFF Message Template) is a Python utility that allows you to send Fl
 ## Installation
 To use this utility, ensure you have the required dependencies installed. You can clone the repository using the following command:
 
-```bash
-git clone https://github.com/WEDeach/CHRLINE-Patch.git
-```
+`git clone https://github.com/nezumi0627/SLMTP.git`
