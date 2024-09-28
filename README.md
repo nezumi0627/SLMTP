@@ -9,6 +9,7 @@ SLMT (Send LIFF Message Template) is a Python utility that allows you to send Fl
 - **Efficient Handling**: Designed to handle the sending of multiple Flex messages with minimal effort.
 
 ## Installation
-To use this utility, ensure you have the required dependencies installed. You can clone the repository using the following command:
+You can clone the repository using the following command:
+
 
 `git clone https://github.com/nezumi0627/SLMTP.git`
